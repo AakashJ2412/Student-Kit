@@ -1906,7 +1906,7 @@ nav.hide {
 }
 
 nav a {
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   color: #fff;
@@ -2267,7 +2267,7 @@ body {
 }
 
 .contact-area {
-  background: url(../img/contact-bg.jpg) no-repeat center center/cover;
+  background: url(../img/34.jpg) no-repeat center center/cover;
   color: #fff;
 }
 
@@ -2512,6 +2512,7 @@ body {
 
 .footer-area .copy-right-text {
   text-align: center;
+  padding-top: 5%;
   color: #fff;
 }
 
