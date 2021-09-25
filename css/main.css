@@ -778,6 +778,27 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5em;
 }
 
+button{
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+button:hover{
+  cursor: pointer;
+  color: white;
+  background-color:black;
+}
+
+.hover:hover{
+  color: black;
+}
+
+button:focus, button:active {
+  outline: 0;
+  border: 0;
+}
+
 .typography h1, .typography h2, .typography h3, .typography h4, .typography h5, .typography h6 {
   color: #777777;
 }
